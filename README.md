@@ -12,18 +12,15 @@ Users should be able to:
 
 ### Screenshot
 
-Desktop Version
 ![Desktop Version](images/testimonialDesktop.png)
 
-Tablet Version
 ![Tablet Version](images/testimonialTablet.png)
 
-Mobile Version
 ![Mobile Version](images/testimonialMobile.png)
 
 ### Links
 
-- Live Site URL: [Visit](https://talktodeego.github.io/fem-testimonialgrid/)
+- Live Site URL: [Click Here](https://talktodeego.github.io/fem-testimonialgrid/)
 
 ### Built with
 
