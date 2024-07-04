@@ -20,7 +20,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Click Here](https://talktodeego.github.io/fem-testimonialgrid/)
+- Live Site URL: <a href="https://talktodeego.github.io/fem-testimonialgrid/" target="_blank">Click Here</a>
 
 ### Built with
 
