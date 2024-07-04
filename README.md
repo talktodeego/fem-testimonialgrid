@@ -32,4 +32,4 @@ Users should be able to:
 ## Author
 
 - Frontend Mentor - [@talktodeego](https://www.frontendmentor.io/profile/talktodeego)
-- Twitter - [@talktodeego_](https://www.twitter.com/talktodeego_)
+- Linkedin - [@diegoboscolo](https://www.linkedin.com/in/diegoboscolo/)
