@@ -13,9 +13,13 @@ Users should be able to:
 ### Screenshot
 
 ![Desktop Version](images/testimonialDesktop.png)
-![Tablet Version](images/testimonialTablet.png)
-![Mobile Version](images/testimonialMobile.png)
+Desktop Version
 
+![Tablet Version](images/testimonialTablet.png)
+Tablet Version
+
+![Mobile Version](images/testimonialMobile.png)
+Mobile Version
 
 ### Links
 
